@@ -1,0 +1,95 @@
+{
+    "hotgirls": [
+        {
+            "id": "1",
+            "name": "Kanna Hashimoto",
+            "image": "images/hotgirl1.jpg",
+            "phone": "111-111-1111",
+            "description": "description1"
+        },
+        {
+            "id": "2",
+            "name": "Hirose Suzu",
+            "image": "images/hotgirl2.jpg",
+            "phone": "222-222-2222",
+            "description": "description2"
+        },
+        {
+            "id": "3",
+            "name": "Haruka Fukuhara",
+            "image": "images/hotgirl3.jpg",
+            "phone": "333-333-3333",
+            "description": "description1"
+        },
+        {
+            "id": "4",
+            "name": "Hamabe Minami",
+            "image": "images/hotgirl4.jpg",
+            "phone": "444-444-4444",
+            "description": "description2"
+        },
+        {
+            "id": "5",
+            "name": "Asuka Saito",
+            "image": "images/hotgirl5.jpg",
+            "phone": "555-555-5555",
+            "description": "description1"
+        },
+        {
+            "id": "6",
+            "name": "Miyu Honda",
+            "image": "images/hotgirl6.jpg",
+            "phone": "666-666-6666",
+            "description": "description2"
+        },
+        {
+            "id": "7",
+            "name": "Mana Ashida",
+            "image": "images/hotgirl7.jpg",
+            "phone": "777-777-7777",
+            "description": "description1"
+        },
+        {
+            "id": "8",
+            "name": "Yuri Ota",
+            "image": "images/hotgirl8.jpg",
+            "phone": "888-888-8888",
+            "description": "description2"
+        },
+        {
+            "id": "9",
+            "name": "Nagano Mei",
+            "image": "images/hotgirl9.jpg",
+            "phone": "999-999-9999",
+            "description": "description1"
+        },
+        {
+            "id": "10",
+            "name": "Suzume Yosano",
+            "image": "images/hotgirl10.jpg",
+            "phone": "000-000-0000",
+            "description": "description2"
+        },
+        {
+            "id": "11",
+            "name": "Mark",
+            "image": "images/hotgirl10.jpg"      ,    
+            "phone": "999-999-9999",
+            "description": "description1"
+        },
+        {
+            "id": "12",
+            "name": "Jenny",
+            "image": "images/hotgirl10.jpg",           
+            "phone": "000-000-0000",
+            "description": "description2"
+        },
+        {
+            "id": "13",
+            "name": "Kyle",
+            "image": "images/hotgirl10.jpg",          
+            "phone": "000-000-0000",
+            "description": "description2"
+        }
+    ]
+}
